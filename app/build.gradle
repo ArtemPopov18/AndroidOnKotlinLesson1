@@ -15,7 +15,7 @@ android {
 
 
     defaultConfig {
-        applicationId "com.gb.k_2135_2136_2"
+        applicationId "com.gb.AndroidOnKotlinLesson1"
         minSdk 24
         targetSdk 32
         versionCode 1
